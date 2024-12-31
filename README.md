@@ -22,5 +22,4 @@ Alternatively, you can run the inference scripts directly for alphabet and word 
 
 #### Contributor
 Maaz Ali Baig
-
-
+### Dataset has to be generated before you run the code
