@@ -1,24 +1,27 @@
 ## Dependencies
-All necessary dependencies for this project can be found in the `requirements.txt` file. Make sure to install these dependencies before running the project.
+All of the prerequisites for this project may be found in the'requirements.txt' file. Install these dependencies before executing the project.
 
-To install dependencies using pip, run:   
-pip install -r requirements.txt
+To install dependencies with pip, use: pip install -r requirements.txt.
+
 
 ## Running the Project
 
 ### Option 1: Using the GUI
-1. Navigate to the project directory.
-2. Run the `start_up.py` file.
-3. python start_up.py
-4. The GUI will be launched, allowing you to interact with the sign language to speech conversion system.
+1. Proceed to the project directory.
+2. Execute the'start_up.py' file.
+3. Python Start_up.py
+4. The GUI will appear, allowing you to interact with the sign language-to-speech conversion technology.
+
 
 ### Option 2: Running the Inference Scripts Directly
-Alternatively, you can run the inference scripts directly for alphabet and word prediction.
+You may also run the inference scripts directly for alphabet and word prediction.
+
 
 #### For Alphabet Prediction
-1. Navigate to the project directory.
-2. Run the `inference_classifier_alphabets.py` or `inference_classifier_words.py`file.
-3. python inference_classifier_alphabets.py
+1. Access the project directory.
+2. Launch the 'inference_classifier_alphabets.py' or 'inference_classifier_words.py' file.
+3. Python code: inference_classifier_alphabets.py
+
 
 #### Contributor
 Maaz Ali Baig
